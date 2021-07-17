@@ -1,2 +1,2 @@
-# spectagram-stage-2
+# spectagram-stage-6
 project solution for c82
